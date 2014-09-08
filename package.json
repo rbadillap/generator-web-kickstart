@@ -1,6 +1,6 @@
 {
 	"name": "generator-web-kickstart",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Website kickstarter using Assemble, Compass + Sprites Autogenerating and Bower (Normalize and jQuery)",
 	"license": "MIT",
 	"main": "app/index.js",
