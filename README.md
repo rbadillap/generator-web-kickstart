@@ -1,4 +1,4 @@
-# generator-web-kickstart [![Build Status](https://secure.travis-ci.org/rbadillap/generator-web-kickstart.png?branch=master)](https://travis-ci.org/rbadillap/generator-web-kickstart)
+# generator-web-kickstart
 
 > Website kickstarter using Assemble, Compass + Sprites Autogenerating and Bower (Normalize and jQuery)
 
