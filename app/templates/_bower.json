@@ -1,0 +1,15 @@
+{
+	"name": "<%= _.slugify(appName) %>",
+	"version": "0.1.0",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+	"dependencies": {
+		"jquery-1.x": "jquery#1.11.0",
+		"normalize-css": "~3.0.1"
+	}
+}

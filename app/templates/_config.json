@@ -1,0 +1,7 @@
+{
+	"name": "<%= appName %>",
+	"directories": {
+		"app": "app",
+		"dist": "dist"
+	}
+}

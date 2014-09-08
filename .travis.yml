@@ -1,0 +1,7 @@
+language: node_js
+node_js:
+  - '0.10'
+before_install:
+  - currentfolder=${PWD##*/}
+  - if [ "$currentfolder" != 'generator-web-kickstart' ]; then cd .. && eval "mv $currentfolder generator-web-kickstart" && cd generator-web-kickstart; fi
+
